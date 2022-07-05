@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    margin: 0;
+    background-color: #E2E7FF;
+}
+.row1{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+.part1{
+    margin-top: 20px;
+    width: 200px;
+    margin-left: 70px;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+}
+.part2{
+    margin-top: 30px;
+    margin-left: 790px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+a{
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: gray;
+}
+.boxindex{
+    margin-left: 10%;
+    margin-top: 55px;
+    width:80%;
+    height: 550px;
+    background-color: white;
+    display:flex;
+}
+.boxcon{
+    margin-left: 10%;
+    margin-top: 55px;
+    width:80%;
+    height: 550px;
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+}
+.boxabout{
+    margin-left: 10%;
+    margin-top: 55px;
+    width:80%;
+    height: 550px;
+    background-color: white;
+}
+#img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border-color: black;
+    border-width: medium;
+}
+.part3{
+    margin-top: 70px;
+    margin-left: 10%;
+}
+.part4{
+    margin-top: 170px;
+    margin-left: 60px;
+    font-size: xx-large;
+}
+#str{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    font-weight: bolder;
+}
+#str2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+#str3{
+    margin-top: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.part5{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.part6{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 350px;
+    width: 500px;
+}
+#icon{
+    height: 100px;
+    width: 100px;
+}
+
